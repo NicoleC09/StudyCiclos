@@ -5,7 +5,6 @@ Aquí tienes un `README.md` listo para que lo agregues a tu repositorio en GitHu
 ---  
 
 ## **README.md**  
-```md
 # 🚀 Proyecto Maven con Spring Boot, JUnit 5 y JaCoCo
 
 Este repositorio contiene un proyecto Maven configurado con **Spring Boot**, **JUnit 5** y **JaCoCo**.  
@@ -24,7 +23,6 @@ Para verificar la instalación, ejecuta en la terminal:
 java -version
 mvn -version
 git --version
-```
 Si los comandos no son reconocidos, agrega las rutas de **Java** y **Maven** a la variable de entorno `PATH`.
 
 ---
